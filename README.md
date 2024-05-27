@@ -3,7 +3,7 @@ __FAULT DETECTION USING PCA__
 This repository contains an exapmle of PCA usaed for fault detection.
 Data used for the analyses were taken by the Tennessee Eastman Process datase. this dataset contains 20 different types of failures. For the complete description of the dataset, please refer to the following link:
 
-[][The TEP Dataset] (https://www.kaggle.com/datasets/averkij/tennessee-eastman-process-simulation-dataset)
+[The TEP Dataset](https://www.kaggle.com/datasets/averkij/tennessee-eastman-process-simulation-dataset)
 
 In Data Exploration, some visualization and analysis of the data is first done.
 
